@@ -1,0 +1,78 @@
+[
+  {
+    "company_id": "acme-cloud-001",
+    "company_name": "Acme Cloud Services",
+    "website": "https://www.acmecloud.example",
+    "country": "United Kingdom",
+    "city": "London",
+    "industry": "Cloud software",
+    "company_size": "51-200 employees",
+    "business_model": "B2B SaaS",
+    "products_services": "Multi-cloud management platform for mid-market enterprises",
+    "technology_requirements": "AWS, Azure, Kubernetes, Terraform",
+    "business_challenges": "Scaling infrastructure teams; cost optimisation of cloud spend",
+    "reasons_potential_client": "Evaluating managed DevOps and cloud optimisation partners",
+    "company_research_source_urls": [
+      "https://www.acmecloud.example/about"
+    ],
+    "existing_company_identifiers": {
+      "agent1_id": "acme-cloud-001"
+    }
+  },
+  {
+    "company_id": "northstar-fintech-002",
+    "company_name": "Northstar Fintech",
+    "website": "https://www.northstarfin.example",
+    "country": "India",
+    "city": "Bengaluru",
+    "industry": "Fintech",
+    "company_size": "201-500 employees",
+    "business_model": "B2B payments infrastructure",
+    "products_services": "Payments APIs, banking-as-a-service platform",
+    "technology_requirements": "Microservices, Java, Go, PostgreSQL, PCI-DSS",
+    "business_challenges": "QA coverage for payment flows; security compliance",
+    "reasons_potential_client": "Testing and security QA outsourcing",
+    "company_research_source_urls": [
+      "https://www.northstarfin.example/company"
+    ],
+    "existing_company_identifiers": {
+      "agent1_id": "northstar-fintech-002"
+    }
+  },
+  {
+    "company_id": "maya-retail-003",
+    "company_name": "Maya Retail Group",
+    "website": "https://www.mayaretail.example",
+    "country": "UAE",
+    "city": "Dubai",
+    "industry": "Retail / e-commerce",
+    "company_size": "1,001-5,000 employees",
+    "business_model": "Omnichannel retail",
+    "products_services": "Loyalty programme app, e-commerce platform",
+    "technology_requirements": "React Native, Node.js, Shopify Plus, analytics",
+    "business_challenges": "Mobile app modernisation; AI-driven personalisation",
+    "reasons_potential_client": "Digital transformation of the loyalty app",
+    "company_research_source_urls": [],
+    "existing_company_identifiers": {
+      "agent1_id": "maya-retail-003"
+    }
+  },
+  {
+    "company_id": "apex-manufacturing-004",
+    "company_name": "Apex Manufacturing Solutions",
+    "website": "https://www.apexmfg.example",
+    "country": "USA",
+    "city": "Dallas",
+    "industry": "Manufacturing",
+    "company_size": "10,001+ employees",
+    "business_model": "Industrial manufacturing",
+    "products_services": "Precision components; ERP-driven operations",
+    "technology_requirements": "SAP, MES integration, IIoT data pipelines",
+    "business_challenges": "Legacy ERP integration; plant floor data unification",
+    "reasons_potential_client": "ERP/API integration and managed IT services",
+    "company_research_source_urls": [],
+    "existing_company_identifiers": {
+      "agent1_id": "apex-manufacturing-004"
+    }
+  }
+]

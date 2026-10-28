@@ -1,0 +1,5 @@
+company_id,company_name,website,country,city,industry,company_size,products_services,technology_requirements,reasons_potential_client
+acme-cloud-001,"Acme Cloud Services",https://www.acmecloud.example,"United Kingdom",London,"Cloud software","51-200","Multi-cloud management platform","AWS, Azure, Kubernetes","Managed DevOps evaluation"
+northstar-fintech-002,"Northstar Fintech",https://www.northstarfin.example,India,Bengaluru,Fintech,"201-500","Payments APIs","Microservices, Java, Go","QA outsourcing"
+maya-retail-003,"Maya Retail Group",https://www.mayaretail.example,UAE,Dubai,"Retail / e-commerce","1001-5000","Loyalty app, e-commerce","React Native, Node.js","Digital transformation"
+apex-manufacturing-004,"Apex Manufacturing Solutions",https://www.apexmfg.example,USA,Dallas,Manufacturing,"10001+","Precision components; ERP","SAP, MES, IIoT","ERP/API integration"

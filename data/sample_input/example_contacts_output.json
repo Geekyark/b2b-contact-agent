@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "exported_at": "2026-10-28T00:00:00+00:00",
+  "companies": [
+    {
+      "company_id": "acme-cloud-001",
+      "company_name": "Acme Cloud Services",
+      "contacts": [
+        {
+          "name": "Jane Doe",
+          "title": "CTO",
+          "department": "Technology",
+          "country": "United Kingdom",
+          "linkedin_url": "https://www.linkedin.com/in/jane-doe",
+          "work_email": "jane.doe@acmecloud.example",
+          "email_status": "published_in_source_not_independently_verified",
+          "business_phone": "+44 20 7946 0958",
+          "phone_status": "published_in_source_not_independently_verified",
+          "official_company_contact_page": "https://www.acmecloud.example/contact",
+          "source_identity_url": "https://www.acmecloud.example/team",
+          "source_contact_url": "https://www.acmecloud.example/contact",
+          "role_relevance": "CTO owns infrastructure and DevOps vendor selection; relevant for cloud and managed IT services.",
+          "source_urls": [
+            "https://www.acmecloud.example/team",
+            "https://www.acmecloud.example/contact"
+          ],
+          "confidence_score": 0.82,
+          "verification_notes": "Email and phone published on official contact page; not independently verified. LinkedIn URL from public profile.",
+          "research_date": "2026-10-28T00:00:00+00:00",
+          "review_state": "pending",
+          "source_tags": ["website"]
+        }
+      ]
+    }
+  ]
+}

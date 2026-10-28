@@ -1,0 +1,26 @@
+# Secrets / credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Data (runtime artifacts)
+data/agent2.db
+data/demo.db
+data/test_demo.db
+data/output/*
+!data/output/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
